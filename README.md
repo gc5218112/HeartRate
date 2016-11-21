@@ -18,4 +18,9 @@
 <br>
 <br>
 ![image](https://github.com/ZhaoYukai/HeartRate/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/Screenshot_2015-08-06-13-59-36.jpeg)
+
+
+<br> 
+自己尝试修改
+
 <br>
